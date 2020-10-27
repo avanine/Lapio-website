@@ -1,3 +1,18 @@
+.i {
+    color: red;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: brown;
+}
 p {
-    background-color: red;
+    color: brown;
+}
+li {
+    color: violet;
 }

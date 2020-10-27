@@ -1,0 +1,22 @@
+.div1 {
+    background-color: red;
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-right: 50px;
+}
+.div2 {
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    display: inline-block;
+    margin-right: 50px;
+}
+.div3 {
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    display: inline-block;
+}
